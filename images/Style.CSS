@@ -1,0 +1,19 @@
+body{
+    font-family: 'Hind Siliguri', sans-serif;
+}
+h1{
+    font-size: 80px;
+}
+.name-highlight{
+    color: #ff5e00;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 10%;
+    padding-left: 2%;
+}
+.half-width img{
+width: 100%;
+}
